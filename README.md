@@ -8,7 +8,7 @@
 ```
 git clone https://github.com/ConfusedCharacter/Dns-Bruter
 ```
-```
-python3 main.py
+```bash
+cd Dns-Bruter; python3 main.py
 ```
 * Done!
