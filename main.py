@@ -1,6 +1,6 @@
 # This Source is for 2 years ago
 # By Confused Character
-# github 
+# github https://github.com/ConfusedCharacter/Dns-Bruter/
 
 import socket
 import sys
